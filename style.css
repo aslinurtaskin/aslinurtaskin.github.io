@@ -1,19 +1,19 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #1D3C34;
+    background-color: #031826;
     color: #FFFFFF;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #1D3C34;
+    background-color: #031826;
     padding: 20px;
     text-align: center;
 }
 
 h1 {
-    color: #B2D8C7;
+    color: #062f4a;
 }
 
 main {
@@ -21,6 +21,6 @@ main {
 }
 
 a {
-    color: #B2D8C7;
+    color: #062f4a;
     text-decoration: none;
 }
