@@ -35,3 +35,10 @@ h2 {
     margin: 5px 0 0;
     font-weight: 300;
 }
+
+.banner {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0; /* Adjust padding as needed */
+}
