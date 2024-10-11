@@ -41,5 +41,9 @@ h2 {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 15px 0; /* Adjust padding as needed */
+    padding: 15px 0; 
+    position: absolute; /* Positions the banner within the viewport so you dont have to scroll down */
+    width: 100%;
+    bottom: 0; /* Positions the banner at the bottom of the viewport */
 }
+
