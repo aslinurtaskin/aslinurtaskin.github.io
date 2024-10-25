@@ -20,7 +20,7 @@ body {
 
 .intro-text {
     position: absolute;
-    bottom: 180px; /* Adjust this value to move the text up/down */
+    bottom: 100px; /* Adjust this value to move the text up/down */
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
