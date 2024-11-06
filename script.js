@@ -3,10 +3,10 @@ window.addEventListener('scroll', function() {
     const projectGrid = document.querySelector('.project-grid');
     
     if (window.scrollY > 100) {
-        blackBar.style.transform = 'translateY(-100%)'; // Move the black bar up
+        blackBar.style.transform = 'translateY(-100vh)'; // Move the black bar to the top of the viewport
         projectGrid.style.display = 'grid'; // Reveal the project grid
     } else {
-        blackBar.style.transform = 'translateY(0)'; // Reset the black bar position
+        blackBar.style.transform = 'translateY(0)'; // Reset the black bar position at the bottom
         projectGrid.style.display = 'none'; // Hide the project grid
     }
 });
